@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "nombre": "John Doe",
+      "email": "johnDoe@email.com",
+      "password": "pestillo"
+    },
+    {
+      "nombre": "Bash Scripterson",
+      "email": "bash.scripterson@terminalshell.com",
+      "password": "sudoNotTelling"
+    }
+  ]
+}
